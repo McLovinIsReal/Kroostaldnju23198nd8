@@ -1,0 +1,4 @@
+KrystalPlusAPI.AutoUpdate();
+KrystalPlusAPI.AttachAPI();
+KrystalPlusAPI.IsAttached();
+KrystalPlusAPI.ExecuteScript(text);
